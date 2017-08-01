@@ -14,6 +14,10 @@ a:link {
     font-weight: bold;
 }
 
+input {
+	width: 15em;
+}
+
 #page-title {
     font-size: 4em;
     font-variant: small-caps;
