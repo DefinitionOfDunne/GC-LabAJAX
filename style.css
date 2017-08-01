@@ -70,7 +70,9 @@ a:link {
 	letter-spacing: 1px;
 	font-weight: 700;
 	outline: none;
-	position: relative;
+	position: fixed;
+	top: 70%;
+    left: 0;
 	border: 3px solid #fff;
 	color: #fff;
 	-webkit-transition: all 0.3s;
