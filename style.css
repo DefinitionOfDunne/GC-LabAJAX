@@ -6,6 +6,7 @@ body {
     text-align: center;
     font-family: 'Handlee', cursive;
     color: gray;
+    background-color: rgba(169, 230, 255, 0.95);
 }
 
 a:link {
